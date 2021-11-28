@@ -6,7 +6,8 @@ tenang, sekarang ada sebuah projek yg bikin hpmu jadi punya sinyal 5G 🤫
 
 untuk superuser saja 🤙
 superuser itu bahasa kerennya root 🤭
-cara pasangnya, 
+
+# cara pasangnya, 
 cari apk system ui di 
 /system/priv-app/systemUI/
 klo gk ada cari di 
